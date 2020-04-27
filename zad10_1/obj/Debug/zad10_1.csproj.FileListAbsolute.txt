@@ -1,0 +1,9 @@
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\bin\Debug\zad10_1.exe.config
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\bin\Debug\zad10_1.exe
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\bin\Debug\zad10_1.pdb
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.csproj.CoreCompileInputs.cache
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.exe
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.pdb
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.csprojAssemblyReference.cache
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.Form1.resources
+C:\Users\C20H25N30\source\repos\kyrsovay\zad10_1\obj\Debug\zad10_1.csproj.GenerateResource.cache
